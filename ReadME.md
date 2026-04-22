@@ -138,4 +138,3 @@ CIFAR-10 is downloaded automatically to `./data/` on first run.
 
 ---
 
-*Submitted as part of the Tredence AI Engineering Internship — 2025 Cohort application.*
